@@ -27,6 +27,7 @@ This tool will help you identify the perfect CSS colors to apply to your [HTML](
 {{EmbedGHLiveSample("css-examples/tools/color-picker/", '100%', 900)}}
 
 The generated colors you create above can be used anywhere color is used in CSS and HTML, unless otherwise noted.
+Color is the light of everything!
 
 ## See also
 
